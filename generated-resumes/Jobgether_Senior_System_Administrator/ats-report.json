@@ -1,0 +1,41 @@
+{
+  "atsScore": 55,
+  "matchedKeywords": [
+    "System Administration",
+    "IT Infrastructure",
+    "Technical Support",
+    "Troubleshooting",
+    "Hardware",
+    "Software",
+    "Access Management",
+    "SLA",
+    "ITSM",
+    "Service Desk",
+    "Monitoring",
+    "Alerting",
+    "Automation",
+    "Scripting",
+    "Python",
+    "Linux",
+    "Azure",
+    "AWS",
+    "Disaster Recovery",
+    "Incident Management",
+    "Process Improvement",
+    "Customer Support",
+    "Remote"
+  ],
+  "missingKeywords": [
+    "Google Workspace",
+    "Active Directory",
+    "Windows",
+    "macOS",
+    "MDM",
+    "Microsoft Intune",
+    "Jamf",
+    "VPN",
+    "Citrix",
+    "Jira",
+    "Endpoint Management"
+  ]
+}

@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Senior System Administrator position. With 7.9 years of IT infrastructure experience at Tata Consultancy Services, I have built a strong foundation in enterprise system administration, L2/L3 technical support, and SLA-driven service delivery across distributed environments.
+
+My background includes administering 3,000+ Unix servers, managing incident and change lifecycles through Cherwell ITSM, and automating operational workflows with Python to improve efficiency and reduce costs. I have hands-on experience maintaining remote infrastructure via Azure and AWS, implementing monitoring and alerting solutions, and collaborating with global teams to resolve critical outages and service requests.
+
+I am particularly drawn to this role because of its focus on customer-oriented support, process improvement, and remote-first operations. I am confident that my troubleshooting expertise, communication skills, and proactive approach to IT operations will allow me to contribute effectively to your team's stability and growth.
+
+Thank you for considering my application. I look forward to discussing how my experience aligns with your needs.
+
+Sincerely,
+Venugopal P

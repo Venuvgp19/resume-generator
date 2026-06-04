@@ -1,0 +1,124 @@
+{
+  "personalInfo": {
+    "fullName": "VENUGOPAL P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+91 88921 37015 | +52 55751 37803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "Automation Engineer with 9.6 years of experience delivering technical solutions, technical documentation, and process improvements across Linux, cloud, and infrastructure environments. Proven expertise in Python automation, infrastructure-as-code, and project delivery with strong problem-solving, communication, and cross-functional collaboration skills. Committed to continuous improvement and providing innovative automation solutions that enhance operational efficiency.",
+  "experience": [
+    {
+      "company": "",
+      "role": "Engineer",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "Designed and developed Python automation scripts and CLI tools to streamline Linux and Solaris administration, supporting continuous improvement and efficient project delivery across enterprise infrastructure.",
+        "Served as Cloud Automation Engineer with hands-on Azure VM administration and infrastructure-as-code using Terraform, delivering scalable technical solutions and reliable system operations.",
+        "Authored technical documentation and automation workflows for cross-functional teams, leveraging PowerShell, Bash, and Azure CLI to drive process improvement and standardization.",
+        "Provided client support and technical solutions utilizing strong communication and problem-solving abilities to resolve complex issues and maintain high availability environments."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "B.E.",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India PU College, Bengaluru",
+      "degree": "PUC (PCMC)",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Automation",
+    "Python",
+    "PowerShell",
+    "Bash",
+    "Azure CLI",
+    "AWS CLI",
+    "Linux (RHEL, Ubuntu, CentOS)",
+    "Solaris",
+    "AIX",
+    "Azure (VM, Monitor, Policy, Automation, Update Manager)",
+    "AWS (EC2, S3, Lambda, ECS, ECR, VPC)",
+    "Terraform",
+    "ARM",
+    "Bicep",
+    "GitLab",
+    "Jenkins",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "Azure Monitor",
+    "Log Analytics",
+    "New Relic",
+    "Cherwell (SMT)",
+    "eCAB",
+    "Agentic AI",
+    "LLMs",
+    "Ollama",
+    "RAG",
+    "TensorFlow",
+    "scikit-learn",
+    "Flask",
+    "Pandas",
+    "LVM",
+    "VMware",
+    "SSH/RDP",
+    "serial console",
+    "boot diagnostics",
+    "Technical Documentation",
+    "Project Delivery",
+    "Continuous Improvement",
+    "Problem Solving",
+    "Client Support",
+    "Cross-functional Collaboration",
+    "Communication",
+    "Process Improvement"
+  ],
+  "certifications": [
+    {
+      "name": "AZ-104 — Azure Administrator Associate (2023)",
+      "issuer": "",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator — Udemy (2022)",
+      "issuer": "",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate — Udemy (2021)",
+      "issuer": "",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners — Udemy (2021)",
+      "issuer": "",
+      "date": "2021",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

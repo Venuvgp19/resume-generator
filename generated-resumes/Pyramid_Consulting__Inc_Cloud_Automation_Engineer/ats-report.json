@@ -1,0 +1,36 @@
+{
+  "atsScore": 83,
+  "matchedKeywords": [
+    "CI/CD",
+    "Jenkins",
+    "Terraform",
+    "Git",
+    "AWS",
+    "Cloud",
+    "Automation",
+    "Python",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Ansible",
+    "Infrastructure",
+    "Deployment",
+    "GitLab",
+    "Linux",
+    "Unix",
+    "Operational excellence",
+    "On-premise"
+  ],
+  "missingKeywords": [
+    "Database",
+    "RDS",
+    "Aurora",
+    "MySQL",
+    "Postgres",
+    "Oracle",
+    "SQL Server",
+    "DynamoDB",
+    "Platform implementation",
+    "Database platforms"
+  ]
+}

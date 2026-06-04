@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Linux Administrator position at Element Fleet Management México. With nearly 8 years of IT experience, including 5 years administering enterprise Linux systems and 2.9 years building Python-based automation and CLI tools, I have developed a strong foundation in hybrid infrastructure management and cloud migration.
+
+At Tata Consultancy Services, I administer 3000+ RHEL, Solaris, and AIX servers across on-premises and AWS EC2 environments. I have hands-on experience with lift-and-shift migration activities, including AMI creation, instance provisioning, security group configuration, and post-migration validation. I have implemented automation using Ansible, Terraform, and Python to streamline patch management, vulnerability remediation, and configuration management, reducing manual effort and operational costs.
+
+My technical expertise aligns closely with your requirements: advanced Linux administration, AWS EC2 and EBS management, OS hardening, CI/CD pipeline development with GitLab and Jenkins, and infrastructure provisioning using Terraform. I have also managed disaster recovery activities, deployed monitoring solutions like NewRelic, and maintained strict SLA compliance during critical infrastructure changes.
+
+I am excited about the opportunity to bring my skills in Linux administration, AWS migration, and automation to Element Fleet Management México. Thank you for considering my application. I look forward to discussing how I can contribute to your team's success.
+
+Sincerely,
+Venugopal P

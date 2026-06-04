@@ -1,0 +1,17 @@
+Subject: Application for Linux Administrator Position – Venugopal P
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am writing to apply for the Linux Administrator role at Wipro, as advertised. With 9.6 years of infrastructure experience—including 8 years in Linux/Solaris administration, 5 years in Python automation, and 3 years in Kubernetes and cloud technologies—I am excited about the opportunity to contribute to your team in CDMX.
+
+My background aligns closely with your requirements: expert-level Linux administration (RHEL, CentOS, Ubuntu), hands-on Kubernetes and Docker management, automation with Ansible and Terraform, and strong CI/CD support via GitLab and Jenkins. I also hold the AZ-104 Azure Administrator Associate certification and have a proven track record in infrastructure monitoring and high-availability system design.
+
+Please find my optimized resume attached for your review. I would welcome the chance to discuss how my skills in Linux, containerization, and DevOps can support Wipro’s digital transformation goals.
+
+Thank you for your time and consideration.
+
+Best regards,
+Venugopal P
+prakash.venu19@gmail.com
+55751 37803
+GitHub: github.com/Venuvgp19

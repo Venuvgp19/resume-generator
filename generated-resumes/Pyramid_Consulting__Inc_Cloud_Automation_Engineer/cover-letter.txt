@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Cloud Automation Engineer position at Pyramid Consulting, Inc. With nearly 8 years of IT experience, including nearly 3 years specializing in Python-driven cloud automation and CI/CD pipeline development across AWS and Azure, I am eager to bring my expertise to your database engineering team.
+
+In my current role at Tata Consultancy Services, I have developed fully automated CI/CD pipelines using Jenkins, GitLab, Ansible, Docker, and Kubernetes to streamline code deployment and infrastructure management. I have hands-on experience provisioning AWS resources—including EC2, S3, VPC, ECS, and ECR—using Terraform and Python (Boto3), as well as extensive Azure experience deploying VMs, storage accounts, virtual networks, and load balancers via Terraform. My recent practical experience with Terraform and cloud-native automation tools aligns directly with your requirements.
+
+I have a proven track record of delivering operational excellence through automation, having built CLI tools, Lambda functions, and Ansible playbooks that reduced manual effort and generated significant cost savings across 3,000+ Unix servers. While my background is rooted in systems administration and cloud infrastructure, I am passionate about applying these automation disciplines to database platforms to drive reliability and efficiency.
+
+I hold active certifications including Azure Administrator Associate (AZ-104), Certified Kubernetes Administrator, and AWS Developer Associate, and I am excited about the opportunity to contribute to Pyramid Consulting's remote team.
+
+Thank you for considering my application. I look forward to discussing how my skills in cloud automation and CI/CD can support your platform implementation standards.
+
+Sincerely,
+Venugopal P

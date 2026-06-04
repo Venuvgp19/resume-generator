@@ -1,0 +1,127 @@
+{
+  "personalInfo": {
+    "fullName": "VENUGOPAL P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+91 88921 37015 | +52 55751 37803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "IT Analyst and Engineer with 9.6 years of experience specializing in IT infrastructure administration, including 8 years in Linux and Solaris systems and 5 years in Python automation and CLI tool development. Three years as a Cloud Automation Engineer managing Azure VM infrastructure and Terraform-based infrastructure-as-code. Proven expertise in virtualization, system monitoring, troubleshooting, and automation to ensure high availability and operational efficiency.",
+  "experience": [
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "role": "Engineer",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "Administered Linux (RHEL, Ubuntu, CentOS) and Solaris server infrastructure for 8+ years, ensuring high system availability, performance monitoring, and operational stability across enterprise environments.",
+        "Developed Python automation scripts, PowerShell modules, and CLI tools for 5 years to streamline infrastructure provisioning, system updates, and repetitive administrative tasks.",
+        "Served as Cloud Automation Engineer for 3 years managing Azure VM infrastructure using Terraform and infrastructure-as-code, supporting virtualization and cloud resource optimization.",
+        "Utilized VMware and Azure virtualization technologies to perform capacity planning, preventive maintenance, and system diagnostics, minimizing downtime and supporting business continuity.",
+        "Provided Level 2 technical support and incident troubleshooting for hardware, software, and connectivity issues, tracking tickets and reducing recurring incidents through root cause analysis and automation.",
+        "Enforced IT security policies and access controls across cloud and on-premises systems, supporting compliance requirements and internal audit activities."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "B.E.",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India PU College, Bengaluru",
+      "degree": "PUC",
+      "field": "PCMC",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Linux (RHEL, Ubuntu, CentOS)",
+    "Solaris",
+    "AIX",
+    "Azure (VM, Monitor, Policy, Automation, Update Manager)",
+    "AWS (EC2, S3, Lambda, ECS, ECR, VPC)",
+    "Terraform",
+    "ARM",
+    "Bicep",
+    "Python",
+    "PowerShell",
+    "Bash",
+    "Azure CLI",
+    "AWS CLI",
+    "GitLab",
+    "Jenkins",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "Azure Monitor",
+    "Log Analytics",
+    "New Relic",
+    "Cherwell",
+    "eCAB",
+    "Agentic AI",
+    "LLMs",
+    "Ollama",
+    "RAG",
+    "TensorFlow",
+    "scikit-learn",
+    "Flask",
+    "Pandas",
+    "LVM",
+    "VMware",
+    "SSH/RDP",
+    "Serial Console",
+    "Boot Diagnostics",
+    "TCP/IP Networking",
+    "DNS",
+    "DHCP",
+    "IT Infrastructure Administration",
+    "System Monitoring",
+    "Technical Support",
+    "Troubleshooting",
+    "Infrastructure Automation",
+    "Security Compliance",
+    "Preventive Maintenance"
+  ],
+  "certifications": [
+    {
+      "name": "AZ-104 — Azure Administrator Associate (2023)",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator — Udemy (2022)",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate — Udemy (2021)",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners — Udemy (2021)",
+      "issuer": "",
+      "date": "",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

@@ -1,0 +1,167 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "55751 37803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "IT Analyst with 9.6 years of enterprise experience specializing in Linux systems administration, infrastructure automation, and cloud operations across RHEL, CentOS, Ubuntu, Solaris, Azure, and AWS. Proven expertise in system hardening, patching, incident response, SLA-driven support, and Bash/Python automation to ensure high availability, security compliance, and operational stability for mission-critical environments. Adept at monitoring logs, troubleshooting production issues, and collaborating with cross-functional infrastructure teams to deliver reliable IT services and continuous improvement.",
+  "experience": [
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "8 years of enterprise Linux and Solaris systems administration, ensuring high availability, proactive performance monitoring, and stable production server operations."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "Administered, configured, and hardened Linux servers including RHEL, CentOS, and Ubuntu alongside Solaris platforms; managed user permissions, security controls, SSH access, and system patching to maintain SLA compliance and operational excellence."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "5 years of infrastructure automation and platform engineering, leveraging Python, Bash scripting, and PowerShell to optimize system provisioning, repetitive operational tasks, and coordinated deployment workflows."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "Developed Python automation scripts and CLI tools to streamline server administration, log analysis, patching cycles, and incident response, significantly reducing manual effort and improving system reliability."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "3 years of advanced technical operations and systems support in enterprise IT environments, contributing to root cause analysis, capacity management, security hardening, and continuous service improvement initiatives."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "B.E.",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India PU College, Bengaluru",
+      "degree": "PUC",
+      "field": "PCMC",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Linux Administration (RHEL, CentOS, Ubuntu, SUSE)",
+    "Solaris Administration",
+    "AIX",
+    "System Hardening",
+    "Patch Management",
+    "Incident Response",
+    "Root Cause Analysis",
+    "SLA Management",
+    "Performance Monitoring",
+    "systemd",
+    "cron",
+    "SSH/RDP",
+    "NFS",
+    "Samba",
+    "Apache",
+    "SELinux",
+    "ACLs",
+    "Sudo Configuration",
+    "User & Permission Management",
+    "Bash Scripting",
+    "Python Automation",
+    "PowerShell",
+    "Azure (VM, Monitor, Policy, Automation, Update Manager)",
+    "AWS (EC2, S3, Lambda, ECS, ECR, VPC)",
+    "Azure CLI",
+    "AWS CLI",
+    "Terraform",
+    "ARM Templates",
+    "Bicep",
+    "GitLab",
+    "Jenkins",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "Azure Monitor",
+    "Log Analytics",
+    "New Relic",
+    "Cherwell (SMT)",
+    "eCAB",
+    "Agentic AI",
+    "LLMs",
+    "Ollama",
+    "RAG",
+    "TensorFlow",
+    "scikit-learn",
+    "Flask",
+    "Pandas",
+    "LVM",
+    "VMware",
+    "Serial Console",
+    "Boot Diagnostics"
+  ],
+  "certifications": [
+    {
+      "name": "AZ-104 — Azure Administrator Associate",
+      "issuer": "",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "Udemy",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

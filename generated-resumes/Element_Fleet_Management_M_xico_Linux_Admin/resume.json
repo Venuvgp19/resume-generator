@@ -1,0 +1,107 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+918892137015 | +525575137803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "https://github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "IT Analyst with 7.9 years of enterprise experience, including 5 years administering Linux (RHEL, Solaris, AIX) and 2.9 years developing Python automation, CLI tools, and CI/CD pipelines. Proven expertise in hybrid infrastructure management, AWS EC2 administration, on-premises to cloud migration, and Infrastructure-as-Code (Terraform, Ansible) to deliver secure, cost-optimized operations at scale.",
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "IT Analyst",
+      "startDate": "Dec 2016",
+      "endDate": "",
+      "isCurrent": true,
+      "bullets": [
+        "Administer, configure, and maintain RHEL, Solaris, and AIX servers across on-premises and AWS EC2 environments, ensuring availability, performance, and security for 3000+ Unix servers.",
+        "Support on-premises to AWS EC2 lift-and-shift migration activities, including system assessment, instance provisioning, AMI creation, cutover planning, and post-migration validation to ensure service continuity.",
+        "Manage AWS EC2 infrastructure including right-sizing, EBS volumes, security groups, IAM role integration, and lifecycle management to optimize cloud costs and operational efficiency.",
+        "Implement automation and configuration management using Ansible, Terraform, Python, and shell scripting to eliminate configuration drift and automate patch reporting for 1500+ Linux servers.",
+        "Execute OS hardening, patch management, and vulnerability remediation across hybrid environments; automated vulnerability segregation and fstab fixes on thousands of servers to maintain security compliance.",
+        "Develop Python CLI tools and API integrations using boto3, Cherwell, and InsightVM to automate infrastructure tasks, backup operations, certificate expiry alerting, and Azure/AWS resource tagging.",
+        "Build and maintain CI/CD pipelines using GitLab, Jenkins, Ansible, and Docker/Kubernetes for automated code deployment and infrastructure provisioning.",
+        "Monitor system health, troubleshoot Level 2/3 incidents, perform root-cause analysis on CPU, memory, disk, and service issues, and maintain SLA compliance during steady-state and migration phases.",
+        "Collaborate with monitoring teams to deploy NewRelic on 100+ Linux servers and automate snapshot maintenance, delivering significant annual cost savings and improved uptime."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "Pre-University Course (PUC)",
+      "field": "Science (PCMC)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Linux System Administration (RHEL, Solaris, AIX)",
+    "AWS EC2, S3, Lambda, VPC, ECS, ECR, IAM, CloudWatch",
+    "Azure Cloud (VMs, Storage, VNet, Load Balancers)",
+    "Terraform",
+    "Ansible",
+    "Python Scripting & CLI Development",
+    "Shell Scripting (Bash)",
+    "boto3",
+    "Pandas",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "GitLab CI/CD",
+    "VMware",
+    "NewRelic",
+    "OS Hardening & Patch Management",
+    "Vulnerability Remediation",
+    "Incident Management & Root Cause Analysis",
+    "Disaster Recovery",
+    "Logical Volume Management (LVM)",
+    "Infrastructure as Code (IaC)",
+    "Hybrid Cloud Operations",
+    "Performance Tuning"
+  ],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate (AZ-104)",
+      "issuer": "Microsoft",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

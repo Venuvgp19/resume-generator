@@ -1,0 +1,13 @@
+Subject: Application for Linux Systems Administrator – Venugopal P
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am reaching out to apply for the Linux Systems Administrator role at Kyndryl. With 9.6 years of enterprise IT experience—8 years in Linux/Solaris administration and 5 years in Python and Bash automation—I am confident in my ability to support and optimize your mission-critical Linux environments.
+
+My expertise spans server installation, configuration, hardening, and maintenance across RHEL, CentOS, Ubuntu, and Solaris, along with strong capabilities in incident management, root cause analysis, and SLA-driven operational support. I also bring hands-on experience with Azure, AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines, enabling me to collaborate effectively across cloud, storage, and infrastructure teams.
+
+I would welcome the opportunity to discuss how my background in system reliability, security compliance, and infrastructure automation can add value to Kyndryl. Please find my resume attached for your review. I am available at your convenience for an interview and can be reached at prakash.venu19@gmail.com or 55751 37803.
+
+Best regards,
+Venugopal P
+GitHub: github.com/Venuvgp19

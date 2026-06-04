@@ -1,0 +1,165 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "55751 37803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "https://github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "Linux Administrator and Infrastructure Support Engineer with 9.6 years of enterprise infrastructure experience, specializing in Linux Server Administration (RHEL, CentOS, Ubuntu), Kubernetes cluster management, and Docker containerization. Proven expertise in automating workflows with Python, Bash, Ansible, and Terraform; supporting CI/CD pipelines; and ensuring high availability across on-prem and cloud environments. Strong background in system performance tuning, security hardening, and infrastructure monitoring using Azure Monitor, Log Analytics, and New Relic.",
+  "experience": [
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "8 years of enterprise Linux Server Administration across RHEL, CentOS, and Ubuntu environments, performing installation, configuration, security hardening, and ongoing maintenance to ensure high availability."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "Administered Linux and Solaris servers including LVM, VMware, SSH, serial console, and boot diagnostics; optimized system performance and reliability for mission-critical infrastructure."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "5 years of Infrastructure Automation and Scripting using Python, Bash, and PowerShell to automate repetitive tasks, streamline configuration management, and reduce operational overhead."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "Developed Python-based CLI tools and automation frameworks to support DevOps workflows, CI/CD pipelines, and infrastructure-as-code deployments using Terraform, ARM, Bicep, and Ansible."
+      ]
+    },
+    {
+      "company": "",
+      "role": "",
+      "startDate": "",
+      "endDate": "",
+      "isCurrent": false,
+      "bullets": [
+        "3 years of Kubernetes and container orchestration experience, managing Docker containers, cluster deployments, and troubleshooting across Azure and AWS hybrid cloud platforms."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "B.E.",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India PU College, Bengaluru",
+      "degree": "",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India, Bengaluru",
+      "degree": "",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Linux Administration (RHEL, CentOS, Ubuntu)",
+    "Solaris",
+    "AIX",
+    "Azure",
+    "AWS",
+    "Terraform",
+    "ARM Templates",
+    "Bicep",
+    "Python",
+    "Bash",
+    "PowerShell",
+    "Azure CLI",
+    "AWS CLI",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "Container Orchestration",
+    "GitLab",
+    "Jenkins",
+    "CI/CD",
+    "DevOps",
+    "Git",
+    "Azure Monitor",
+    "Log Analytics",
+    "New Relic",
+    "Infrastructure Monitoring",
+    "ITSM",
+    "Cherwell (SMT)",
+    "eCAB",
+    "LVM",
+    "VMware",
+    "SSH/RDP",
+    "Serial Console",
+    "Boot Diagnostics",
+    "System Performance Tuning",
+    "Security Hardening",
+    "Troubleshooting",
+    "Linux Internals",
+    "High Availability",
+    "Cloud",
+    "Hybrid Cloud",
+    "Agentic AI",
+    "LLMs",
+    "Ollama",
+    "RAG",
+    "TensorFlow",
+    "scikit-learn",
+    "Flask",
+    "Pandas"
+  ],
+  "certifications": [
+    {
+      "name": "AZ-104: Azure Administrator Associate",
+      "issuer": "Microsoft",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "Udemy",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

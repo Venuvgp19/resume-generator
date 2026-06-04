@@ -1,0 +1,122 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+918892137015 / +525575137803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "https://github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "IT Analyst with 7.9 years of experience administering and troubleshooting 7x24 Linux (RHEL), Solaris, and AIX infrastructure in high-demand production environments. Expertise in CLI-driven automation with Python and Ansible, VMware virtualization, cloud operations (Azure/AWS), and proactive monitoring to maintain SLA and critical system availability.",
+  "experience": [
+    {
+      "company": "Tata Consultancy Services (TCS)",
+      "role": "IT Analyst | Linux & Cloud Infrastructure",
+      "startDate": "Dec 2016",
+      "endDate": "Present",
+      "isCurrent": true,
+      "bullets": [
+        "Administer and troubleshoot 3,000+ Linux (RHEL), Solaris, and AIX servers in high-demand production environments, resolving L2/L3 incidents related to CPU, memory, disk, services, and user management via CLI to ensure 7x24 operational continuity.",
+        "Maintain infrastructure health and security through daily system monitoring, proactive backup verification, vulnerability remediation, and SLA-based incident management for critical Unix environments.",
+        "Automate Linux patching, reporting, and maintenance workflows using Python, Ansible, and shell scripting, delivering consistent service improvements and reducing manual effort across 1,500+ servers.",
+        "Manage VMware-based Linux virtual environments and execute disaster recovery procedures, collaborating with cross-functional teams to minimize downtime during major outages and scheduled maintenance.",
+        "Design and deploy CI/CD pipelines and infrastructure-as-code solutions using Terraform, GitLab, Jenkins, Docker, and Kubernetes to provision and govern Azure and AWS cloud resources at scale.",
+        "Develop Python CLI tools and API integrations (boto3, Lambda, S3, EC2, ECS) that automate cloud operations, enforce tagging standards, optimize snapshot lifecycle management, and generate significant cost savings.",
+        "Implement monitoring and alerting frameworks—including NewRelic and custom certificate-expiry tools—across 100+ servers to preempt service disruptions and uphold infrastructure reliability."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "Pre-University Course (PUC)",
+      "field": "Science (PCMC)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Linux Administration",
+    "Red Hat Enterprise Linux (RHEL)",
+    "Solaris Administration",
+    "System Troubleshooting",
+    "VMware",
+    "Python",
+    "Shell Scripting",
+    "CLI",
+    "Infrastructure Automation",
+    "Azure",
+    "AWS",
+    "Terraform",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "GitLab",
+    "Jenkins",
+    "NewRelic",
+    "Monitoring",
+    "Incident Management",
+    "Disaster Recovery",
+    "Patch Management",
+    "Vulnerability Management",
+    "LVM",
+    "Change Management",
+    "SLA Management",
+    "Boto3",
+    "AWS Lambda",
+    "EC2",
+    "S3",
+    "ECS",
+    "VPC",
+    "High-Availability Infrastructure"
+  ],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate (AZ-104)",
+      "issuer": "Microsoft",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Python from Zero to Hero",
+      "issuer": "Udemy",
+      "date": "2020",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

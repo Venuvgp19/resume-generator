@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Automation Engineer position at Innovate. With 9.6 years of experience as an IT Analyst and Automation Engineer, I have built a strong foundation in designing automation solutions, technical documentation, and process improvements that drive project delivery and operational efficiency.
+
+Throughout my career, I have developed Python automation scripts and CLI tools to streamline system administration across Linux and Solaris environments, and I have spent three years as a Cloud Automation Engineer managing Azure VMs and infrastructure-as-code with Terraform. These experiences have honed my problem-solving abilities, communication skills, and capacity to work within cross-functional teams to deliver reliable technical solutions and continuous improvement.
+
+While my background is centered in IT and cloud automation, the core principles of system reliability, control logic, and technical documentation translate directly to industrial automation environments. I am eager to bring my automation mindset, engineering discipline, and commitment to client support to Innovate’s growing engineering team.
+
+I would welcome the opportunity to discuss how my skills in automation, project delivery, and process improvement can contribute to your innovative control solutions. Thank you for considering my application. I look forward to hearing from you.
+
+Sincerely,
+VENUGOPAL P

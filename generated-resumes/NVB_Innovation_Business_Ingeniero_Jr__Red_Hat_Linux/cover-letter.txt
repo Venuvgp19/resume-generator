@@ -1,0 +1,10 @@
+Estimado equipo de NVB Innovation Business,
+
+Me dirijo a ustedes en respuesta a la vacante de Ingeniero Jr. Red Hat Linux. Con 7.9 años de experiencia en Tata Consultancy Services administrando entornos Linux (RHEL), Solaris y AIX a gran escala, cuento con sólidos conocimientos en troubleshooting, monitoreo, automatización con Python y Ansible, y operación de infraestructura crítica 7x24. He gestionado más de 3,000 servidores Unix, resuelto incidencias L2/L3, implementado planes de recuperación ante desastres y desarrollado herramientas CLI que optimizan costos en Azure y AWS. Además, poseo certificaciones en Azure (AZ-104), Kubernetes y AWS Developer, junto con experiencia en VMware y CI/CD. Estoy entusiasmado con la oportunidad de aportar valor a su equipo y crecer profesionalmente en un entorno productivo de alta exigencia.
+
+Quedo a su disposición para una entrevista.
+
+Saludos cordiales,
+Venugopal P
+prakash.venu19@gmail.com
++52 55 7513 7803 / +91 88921 37015

@@ -1,0 +1,30 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+918892137015 / +525575137803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "https://github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "IT Analyst with 7.9 years of experience delivering enterprise system administration across Linux and Solaris server operating systems, complemented by 2.9 years of Python-based CLI development and cloud/on-prem automation solutions. Proficient in Azure cloud provisioning and IT infrastructure management, with foundational exposure to Docker and Kubernetes. Proven track record of building scalable automation tools and supporting large-scale IT landscapes.",
+  "experience": [],
+  "education": [],
+  "skills": [
+    "Linux Administration",
+    "Solaris Administration",
+    "System Administration",
+    "Server OS",
+    "Python",
+    "CLI Development",
+    "Azure",
+    "Cloud Provisioning",
+    "IT Infrastructure",
+    "Docker",
+    "Kubernetes",
+    "Automation"
+  ],
+  "certifications": [],
+  "projects": []
+}

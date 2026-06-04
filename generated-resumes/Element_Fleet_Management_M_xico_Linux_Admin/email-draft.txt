@@ -1,0 +1,15 @@
+Subject: Application for Linux Administrator Position – Venugopal P
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am writing to apply for the Linux Administrator role at Element Fleet Management México. With 7.9 years of experience in enterprise Linux administration, AWS EC2 operations, and infrastructure automation, I am confident in my ability to support your on-premises to AWS migration initiatives and ensure reliable, secure systems.
+
+My background includes administering 3000+ Linux servers (RHEL, Solaris, AIX), managing AWS EC2 infrastructure, and developing Python automation tools that have delivered significant cost savings. I hold certifications including Azure Administrator Associate (AZ-104), AWS Developer Associate, and Certified Kubernetes Administrator, and I am proficient in Ansible, Terraform, and CI/CD pipelines.
+
+I would welcome the opportunity to discuss how my experience aligns with your needs. Please find my attached resume for your review. I am available at your convenience for an interview.
+
+Best regards,
+Venugopal P
+prakash.venu19@gmail.com
++918892137015 | +525575137803
+https://github.com/Venuvgp19

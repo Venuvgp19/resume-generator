@@ -1,0 +1,14 @@
+Subject: Application for Senior System Administrator Position
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am writing to apply for the Senior System Administrator role. With nearly 8 years of experience in IT infrastructure, system administration, and SLA-driven support at Tata Consultancy Services, I have developed strong capabilities in L2/L3 troubleshooting, ITSM service desk operations, and infrastructure automation using Python and Ansible.
+
+I have managed large-scale Unix environments, supported remote cloud infrastructure on Azure and AWS, and consistently delivered customer-focused technical solutions that improve operational efficiency. I am excited about the opportunity to bring my skills in incident management, process improvement, and cross-functional collaboration to your remote team in Mexico.
+
+Please find my optimized resume attached. I would welcome the opportunity to discuss how my background aligns with your requirements.
+
+Best regards,
+Venugopal P
+prakash.venu19@gmail.com
++918892137015 / +525575137803

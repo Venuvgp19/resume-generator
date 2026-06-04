@@ -1,0 +1,130 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+918892137015 | +525575137803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "https://github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "Results-driven IT Analyst with 7.9 years of experience specializing in cloud automation, CI/CD pipeline development, and infrastructure management across AWS and Azure. Proven expertise in Python scripting, Terraform, Jenkins, GitLab, and Ansible to deliver scalable on-premise and cloud-native automation solutions that drive operational excellence. Hands-on experience administering Linux and Solaris environments, deploying containerized workloads with Docker and Kubernetes, and optimizing cloud costs through intelligent automation.",
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "IT Analyst",
+      "startDate": "Dec 2016",
+      "endDate": "",
+      "isCurrent": true,
+      "bullets": [
+        "Designed and maintained fully automated CI/CD pipelines for code deployment using GitLab, Jenkins, Ansible, Docker, and Kubernetes, accelerating release cycles and ensuring operational excellence.",
+        "Provisioned and managed AWS cloud infrastructure including EC2, S3, VPC, ECS, and ECR using Terraform and Python (Boto3), establishing scalable and repeatable infrastructure-as-code standards.",
+        "Authored reusable Terraform modules for Azure resource provisioning—including VMs, storage accounts, virtual networks, application gateways, and load balancers—to enforce cloud governance and standardization.",
+        "Developed Python-based CLI tools and Lambda functions to automate cloud-native workflows, including SQS/S3 event integration with SNS, log management via Auto Scaling Groups, and vulnerability remediation across thousands of servers.",
+        "Automated Azure snapshot lifecycle management, certificate expiry alerting, and resource tagging governance, delivering combined annual cloud cost savings exceeding $15,000.",
+        "Built Ansible-driven Linux patching automation and autonomous host inventory systems for 1,500+ servers, reducing manual effort and improving security compliance.",
+        "Administered 3,000+ Unix servers (Linux, Solaris, AIX), providing L2/L3 troubleshooting for CPU, memory, disk, and service incidents while maintaining SLA compliance and executing disaster recovery protocols.",
+        "Implemented Service Improvement Plans leveraging Git for version control and GitLab for CI/CD, automating vulnerability segregation, patch reporting, and backup processes to enhance platform reliability.",
+        "Collaborated with cross-functional teams to deploy NewRelic monitoring across 100+ Linux servers and automate incident response for critical outages, improving mean time to detection and resolution.",
+        "Conducted POCs for containerized deployments using Docker and Kubernetes, supporting cloud-native automation strategies and modernizing legacy infrastructure management."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "Pre-University Course (PUC)",
+      "field": "Science (PCMC)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "Python",
+    "AWS",
+    "Azure",
+    "Terraform",
+    "CI/CD",
+    "Jenkins",
+    "GitLab",
+    "Git",
+    "Ansible",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "Solaris",
+    "AIX",
+    "Unix Administration",
+    "Shell Scripting",
+    "Boto3",
+    "AWS Lambda",
+    "ECS",
+    "EC2",
+    "S3",
+    "VPC",
+    "SNS",
+    "SQS",
+    "Auto Scaling Groups",
+    "Infrastructure as Code",
+    "Cloud Automation",
+    "CLI Development",
+    "Pandas",
+    "NewRelic",
+    "Cherwell",
+    "InsightVM",
+    "VMware",
+    "LVM",
+    "Disaster Recovery",
+    "Incident Management",
+    "SLA Management",
+    "Patch Management",
+    "Vulnerability Management"
+  ],
+  "certifications": [
+    {
+      "name": "Azure Administrator Associate (AZ-104)",
+      "issuer": "Microsoft",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Developer Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Python from Zero to Hero",
+      "issuer": "Udemy",
+      "date": "2020",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

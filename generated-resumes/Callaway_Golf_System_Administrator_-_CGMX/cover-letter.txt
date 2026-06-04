@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the System Administrator – CGMX position at Callaway Golf. With 9.6 years of IT infrastructure experience, including 8 years administering Linux and Solaris environments and 3 years as a Cloud Automation Engineer managing Azure VM infrastructure with Terraform, I am eager to bring my expertise in virtualization, automation, and technical support to your team.
+
+At TCS, I have honed my skills in system monitoring, preventive maintenance, and troubleshooting across enterprise environments. My background in Python and PowerShell automation has allowed me to streamline administrative tasks and improve operational efficiency, while my experience with VMware and Azure ensures I can manage diverse virtualization platforms. I am also certified as an Azure Administrator (AZ-104) and Kubernetes Administrator, reflecting my commitment to maintaining robust, secure, and scalable infrastructure.
+
+Callaway Golf’s dedication to innovation and craftsmanship resonates with my own approach to IT—leveraging technology to enable peak performance. I am excited about the opportunity to support your on-site infrastructure, ensure high system availability, and contribute to continuous improvement initiatives at your CGMX facility.
+
+Thank you for considering my application. I look forward to discussing how my background in infrastructure administration and automation can support Callaway Golf’s mission.
+
+Sincerely,
+Venugopal P

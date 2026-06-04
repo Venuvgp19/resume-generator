@@ -1,0 +1,138 @@
+{
+  "personalInfo": {
+    "fullName": "Venugopal P",
+    "email": "prakash.venu19@gmail.com",
+    "phone": "+918892137015, +525575137803",
+    "location": "",
+    "linkedin": "",
+    "portfolio": "https://github.com/Venuvgp19",
+    "photo": ""
+  },
+  "summary": "IT Analyst and System Administrator with 7.9 years of experience maintaining enterprise IT infrastructure and delivering L2/L3 technical support across distributed environments. Proven expertise in Linux and Unix systems administration, SLA-driven incident management, and ITSM service desk operations using Cherwell/SMT. Skilled in Python automation and cloud infrastructure management to improve operational efficiency, reduce costs, and ensure high availability of critical systems. Strong communicator with a customer-focused approach to resolving complex technical issues and driving continuous process improvement.",
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "IT Analyst",
+      "startDate": "Dec 2016",
+      "endDate": "",
+      "isCurrent": true,
+      "bullets": [
+        "Administered and maintained 3,000+ Unix servers (Linux, Solaris, AIX) ensuring high availability, security, and performance across enterprise IT infrastructure.",
+        "Delivered L2/L3 technical support for hardware, software, operating system, and network issues including CPU, memory, disk space, and service management while maintaining SLA compliance.",
+        "Managed incident management lifecycle, troubleshooting major and critical outages, performing root cause analysis, and executing disaster recovery procedures for distributed systems.",
+        "Operated ITSM service desk platform (Cherwell/SMT) for ticket management, change control via eCAB, and service request fulfillment; built Python integration modules to automate monthly reporting and enhance service delivery.",
+        "Implemented proactive monitoring and alerting solutions using New Relic and custom Python tools to maintain infrastructure integrity, prevent outages, and ensure rapid issue resolution.",
+        "Automated routine system administration and maintenance tasks using Python, Ansible, and shell scripting, including patch management, vulnerability remediation, and inventory generation, driving significant operational cost savings.",
+        "Administered Azure and AWS cloud resources including VMs, storage, snapshots, ECS clusters, and Lambda functions to support remote infrastructure operations and optimize cloud expenditures.",
+        "Collaborated with cross-functional teams and end clients to resolve service incidents, schedule maintenance windows, and drive continuous improvement in IT processes and procedures.",
+        "Managed user and group access, OS services, logical volumes (LVM), filesystems, and security patches while maintaining compliance and daily system monitoring protocols.",
+        "Developed CI/CD pipelines and Infrastructure-as-Code modules using Terraform, GitLab, Jenkins, Docker, and Kubernetes to standardize cloud provisioning and resource governance."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sir M Visvesvaraya Institute of Technology, Bengaluru",
+      "degree": "Bachelor of Engineering (B.E.)",
+      "field": "Electrical Engineering",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "Pre-University Course (PUC)",
+      "field": "Science (PCMC)",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "institution": "Christel House India Pre-University College, Bengaluru",
+      "degree": "SSLC",
+      "field": "",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "skills": [
+    "System Administration",
+    "Linux Administration",
+    "Solaris Administration",
+    "AIX",
+    "IT Infrastructure",
+    "L2/L3 Technical Support",
+    "Incident Management",
+    "SLA Management",
+    "ITSM",
+    "Service Desk",
+    "Cherwell",
+    "Change Management",
+    "Troubleshooting",
+    "Hardware Support",
+    "Software Support",
+    "Access Management",
+    "Python Scripting",
+    "Automation",
+    "Ansible",
+    "Terraform",
+    "CI/CD",
+    "GitLab",
+    "Jenkins",
+    "Azure Cloud",
+    "AWS",
+    "EC2",
+    "S3",
+    "VPC",
+    "ECS",
+    "Lambda",
+    "Docker",
+    "Kubernetes",
+    "VMware",
+    "New Relic",
+    "Monitoring and Alerting",
+    "Disaster Recovery",
+    "Vulnerability Management",
+    "Patch Management",
+    "LVM",
+    "Git",
+    "Boto3",
+    "Pandas",
+    "Shell Scripting",
+    "Process Improvement",
+    "Customer Support",
+    "Cross-functional Collaboration",
+    "Remote Infrastructure"
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+      "issuer": "Microsoft",
+      "date": "2023",
+      "link": ""
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF / The Linux Foundation",
+      "date": "2022",
+      "link": ""
+    },
+    {
+      "name": "AWS Certified Developer - Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Ansible for Absolute Beginners",
+      "issuer": "Udemy",
+      "date": "2021",
+      "link": ""
+    },
+    {
+      "name": "Python from Zero to Hero",
+      "issuer": "Udemy",
+      "date": "2020",
+      "link": ""
+    }
+  ],
+  "projects": []
+}

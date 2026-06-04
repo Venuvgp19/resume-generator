@@ -1,0 +1,31 @@
+{
+  "atsScore": 65,
+  "matchedKeywords": [
+    "VMware",
+    "System Monitoring",
+    "Preventive Maintenance",
+    "System Updates",
+    "Security Policies",
+    "Technical Support",
+    "Troubleshooting",
+    "Automation",
+    "Infrastructure",
+    "Virtualization",
+    "TCP/IP Networking",
+    "DNS",
+    "DHCP",
+    "Incident Tracking",
+    "Ticket Management"
+  ],
+  "missingKeywords": [
+    "Nutanix AHV",
+    "Nutanix Prism",
+    "Cisco switches",
+    "Windows Server",
+    "Active Directory",
+    "Microsoft 365",
+    "SAP ERP",
+    "Backup and recovery solutions",
+    "VLANs"
+  ]
+}

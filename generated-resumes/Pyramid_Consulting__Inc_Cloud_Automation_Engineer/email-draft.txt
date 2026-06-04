@@ -1,0 +1,17 @@
+Subject: Application for Cloud Automation Engineer Position – Venugopal P
+
+Dear Hiring Manager,
+
+I hope this message finds you well. I am writing to apply for the Cloud Automation Engineer role at Pyramid Consulting, Inc. With 7.9 years of IT experience and specialized expertise in CI/CD, Terraform, AWS, Azure, and Python automation, I am confident in my ability to drive operational excellence for your database platforms.
+
+At Tata Consultancy Services, I have led cloud-native automation initiatives, built CI/CD pipelines with Jenkins and GitLab, and provisioned infrastructure using Terraform across both AWS and Azure environments. I am particularly drawn to this opportunity because of its strong focus on automation and cloud-native tooling.
+
+I have attached my resume for your review and would welcome the chance to discuss how my background aligns with your team's needs. I am available for a remote interview at your earliest convenience.
+
+Thank you for your time and consideration.
+
+Best regards,
+Venugopal P
+Email: prakash.venu19@gmail.com
+Phone: +918892137015 / +525575137803
+GitHub: https://github.com/Venuvgp19

@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the System Administrator position at Nordic, as represented by Hudson Talent Solutions. With 7.9 years of overall IT experience, including five years administering Linux and Solaris server operating systems and nearly three years developing Python-based CLI tools and automation solutions, I am eager to bring my technical expertise to your Querétaro team.
+
+In my role as an IT Analyst, I have delivered cloud and on-prem automation solutions at scale, utilizing Azure for cloud provisioning and IT infrastructure management. My hands-on administration of Linux and Solaris environments has provided me with solid expertise in server OS management and core IT infrastructure. I also bring foundational knowledge of Docker and Kubernetes, which complements modern system administration practices.
+
+I am excited about the opportunity to work on-site in Querétaro and contribute to a fast-paced team focused on solving technical challenges and maintaining reliable IT infrastructure. I am confident that my background in system administration, automation, and IT infrastructure aligns well with the goals of your Systems & Security team.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my experience can add value to Nordic.
+
+Sincerely,
+Venugopal P

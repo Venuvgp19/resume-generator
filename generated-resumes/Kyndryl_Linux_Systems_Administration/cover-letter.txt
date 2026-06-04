@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Linux Systems Administrator position at Kyndryl. With 9.6 years of IT experience, including 8 years of hands-on Linux and Solaris administration and 5 years of Python and Bash automation, I have developed deep expertise in managing, supporting, and maintaining enterprise server environments. My background aligns closely with Kyndryl’s mission to deliver mission-critical technology systems with operational excellence.
+
+Throughout my career, I have administered RHEL, CentOS, Ubuntu, and Solaris platforms, performing system hardening, patching, performance monitoring, and incident response within strict SLA frameworks. I have consistently ensured system availability, stability, and security while collaborating with cross-functional teams to support business-critical workloads. My automation experience includes developing CLI tools and scripts that streamline patching, log analysis, and provisioning, directly supporting continuous improvement and reliability goals.
+
+I am excited about the opportunity to bring my growth mindset, ownership, and customer-focused approach to Kyndryl’s global infrastructure teams. Thank you for considering my application. I look forward to discussing how my skills can contribute to Kyndryl’s success.
+
+Sincerely,
+Venugopal P

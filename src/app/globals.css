@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Resume Modern Template - Hex Colors for html2canvas compatibility */
+.resume-modern .header-gradient {
+  background: linear-gradient(135deg, #2563eb 0%, #1e40af 100%);
+}
+.resume-modern .text-blue-100 { color: #dbeafe; }
+.resume-modern .text-blue-200 { color: #bfdbfe; }
+.resume-modern .bg-blue-50 { background-color: #eff6ff; }
+.resume-modern .bg-blue-100 { background-color: #dbeafe; }
+.resume-modern .text-blue-600 { color: #2563eb; }
+.resume-modern .text-blue-700 { color: #1d4ed8; }
+.resume-modern .border-blue-200 { border-color: #bfdbfe; }
+.resume-modern .border-blue-500 { border-color: #3b82f6; }
+.resume-modern .bg-gray-50 { background-color: #f9fafb; }
+.resume-modern .text-gray-500 { color: #6b7280; }
+.resume-modern .text-gray-600 { color: #4b5563; }
+.resume-modern .text-gray-700 { color: #374151; }
+.resume-modern .text-gray-900 { color: #111827; }
+.resume-modern .bg-amber-50 { background-color: #fffbeb; }
+.resume-modern .text-amber-700 { color: #b45309; }
+.resume-modern .border-amber-200 { border-color: #fde68a; }
+.resume-modern .bg-green-100 { background-color: #dcfce7; }
+.resume-modern .text-green-600 { color: #16a34a; }
+.resume-modern .bg-green-500 { background-color: #22c55e; }
+.resume-modern .text-red-700 { color: #b91c1c; }
+.resume-modern .bg-red-100 { background-color: #fee2e2; }
